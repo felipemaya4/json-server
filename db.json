@@ -3,12 +3,7 @@
     {
       "id": 1,
       "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "persons":[
+    },
     { 
       "name": "Arto Hellas", 
       "number": "040-123456",
@@ -29,5 +24,9 @@
       "number": "39-23-6423122",
       "id": 4
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
   ]
 }
