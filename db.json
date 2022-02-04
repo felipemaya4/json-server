@@ -1,36 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-    { "id": 4, "title": "Post 4" }
+    { "id": 1, "title": "Post 1 uno" },
+    { "id": 2, "title": "Post 2 dos" },
+    { "id": 3, "title": "Post 3 tres " }
+    { "id": 4, "title": "Post 4 cuatro" }
     { "id": 5, "title": "Post 5" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-"persons":[
-    { 
-      "name": "Arto Hellas", 
-      "number": "040-123456",
-      "id": 1
-    },
-    { 
-      "name": "Ada Lovelace", 
-      "number": "39-44-5323523",
-      "id": 2
-    },
-    { 
-      "name": "Dan Abramov", 
-      "number": "12-43-234345",
-      "id": 3
-    },
-    { 
-      "name": "Mary Poppendieck", 
-      "number": "39-23-6423122",
-      "id": 4
-    }
   ],
   "profile": {
     "name": "typicode"
